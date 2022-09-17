@@ -5,7 +5,6 @@ Todo list in order to take notes and complete tasks.
 
 ## Technologies stack
 
-### Main
 * React
 * TypeScript
 * MobX
