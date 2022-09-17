@@ -33,7 +33,7 @@ const HeaderTodo: React.FC = observer(() => {
     >
       <Grid item>
         <Typography variant='h4'>
-          ToDo
+          Some
         </Typography>
       </Grid>
       <Grid item style={{ width: '100%' }} >
