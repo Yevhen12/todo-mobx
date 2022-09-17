@@ -16,5 +16,5 @@ Finished.
 
 ## Link
 
-App: [https://yevhen12.github.io/todo-mob-x/#/](https://yevhen12.github.io/todo-mob-x/#/)
+App: [https://yevhen12.github.io/todo-mob-x/](https://yevhen12.github.io/todo-mob-x/)
 
