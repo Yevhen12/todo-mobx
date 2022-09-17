@@ -10,7 +10,7 @@ const ListTasks: React.FC = observer(() => {
 
     const allTasks = toJS(taskStore.tasks)
     const isAll = taskStore.isAllTasks
-    const tasksToIterate = isAll ? allTasks : allTasks.filter(el => el.completed)
+    const tasksToIterate = isAll ? allTasks : allTasks.filter(el => el.completed) 
 
     const mappedTasks = tasksToIterate.map(task => <Task key={task.id} task={task} />)
     return (
